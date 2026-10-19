@@ -69,7 +69,7 @@
                   }
                 },
                 {
-                  "u64": 1715559
+                  "u64": 7497838
                 },
                 {
                   "address": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMDR4"
@@ -323,7 +323,7 @@
                 },
                 "durability": "persistent",
                 "val": {
-                  "bytes": "d94a6627c8827d63b8ba56a74b81375f80b5cf5251cfdefa80ed316bc3a0a09a"
+                  "bytes": "284831427e866363f481dbb9f55acba3a0572e6f4480877f06f23b43d2c4c5a6"
                 }
               }
             },
@@ -342,7 +342,7 @@
                   "symbol": "Invoice"
                 },
                 {
-                  "bytes": "d94a6627c8827d63b8ba56a74b81375f80b5cf5251cfdefa80ed316bc3a0a09a"
+                  "bytes": "284831427e866363f481dbb9f55acba3a0572e6f4480877f06f23b43d2c4c5a6"
                 }
               ]
             },
@@ -362,7 +362,7 @@
                       "symbol": "Invoice"
                     },
                     {
-                      "bytes": "d94a6627c8827d63b8ba56a74b81375f80b5cf5251cfdefa80ed316bc3a0a09a"
+                      "bytes": "284831427e866363f481dbb9f55acba3a0572e6f4480877f06f23b43d2c4c5a6"
                     }
                   ]
                 },
@@ -406,7 +406,7 @@
                         "symbol": "due_date"
                       },
                       "val": {
-                        "u64": 1715559
+                        "u64": 7497838
                       }
                     },
                     {
@@ -456,7 +456,7 @@
                         "symbol": "id"
                       },
                       "val": {
-                        "bytes": "d94a6627c8827d63b8ba56a74b81375f80b5cf5251cfdefa80ed316bc3a0a09a"
+                        "bytes": "284831427e866363f481dbb9f55acba3a0572e6f4480877f06f23b43d2c4c5a6"
                       }
                     },
                     {
@@ -623,7 +623,7 @@
                 },
                 "durability": "persistent",
                 "val": {
-                  "bytes": "d94a6627c8827d63b8ba56a74b81375f80b5cf5251cfdefa80ed316bc3a0a09a"
+                  "bytes": "284831427e866363f481dbb9f55acba3a0572e6f4480877f06f23b43d2c4c5a6"
                 }
               }
             },
@@ -764,7 +764,66 @@
                 },
                 "durability": "persistent",
                 "val": {
-                  "bytes": "d94a6627c8827d63b8ba56a74b81375f80b5cf5251cfdefa80ed316bc3a0a09a"
+                  "bytes": "284831427e866363f481dbb9f55acba3a0572e6f4480877f06f23b43d2c4c5a6"
+                }
+              }
+            },
+            "ext": "v0"
+          },
+          2000000
+        ]
+      ],
+      [
+        {
+          "contract_data": {
+            "contract": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAITA4",
+            "key": {
+              "vec": [
+                {
+                  "symbol": "StatusMembership"
+                },
+                {
+                  "vec": [
+                    {
+                      "symbol": "Created"
+                    }
+                  ]
+                },
+                {
+                  "u64": 2902624121500623715
+                }
+              ]
+            },
+            "durability": "persistent"
+          }
+        },
+        [
+          {
+            "last_modified_ledger_seq": 0,
+            "data": {
+              "contract_data": {
+                "ext": "v0",
+                "contract": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAITA4",
+                "key": {
+                  "vec": [
+                    {
+                      "symbol": "StatusMembership"
+                    },
+                    {
+                      "vec": [
+                        {
+                          "symbol": "Created"
+                        }
+                      ]
+                    },
+                    {
+                      "u64": 2902624121500623715
+                    }
+                  ]
+                },
+                "durability": "persistent",
+                "val": {
+                  "bool": true
                 }
               }
             },
@@ -1294,7 +1353,7 @@
                   }
                 },
                 {
-                  "u64": 1715559
+                  "u64": 7497838
                 },
                 {
                   "address": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMDR4"
@@ -1416,7 +1475,7 @@
                 "symbol": "invoice_created"
               },
               {
-                "bytes": "d94a6627c8827d63b8ba56a74b81375f80b5cf5251cfdefa80ed316bc3a0a09a"
+                "bytes": "284831427e866363f481dbb9f55acba3a0572e6f4480877f06f23b43d2c4c5a6"
               },
               {
                 "address": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFCT4"
@@ -1455,7 +1514,7 @@
               }
             ],
             "data": {
-              "bytes": "d94a6627c8827d63b8ba56a74b81375f80b5cf5251cfdefa80ed316bc3a0a09a"
+              "bytes": "284831427e866363f481dbb9f55acba3a0572e6f4480877f06f23b43d2c4c5a6"
             }
           }
         }
@@ -1481,7 +1540,7 @@
               }
             ],
             "data": {
-              "bytes": "d94a6627c8827d63b8ba56a74b81375f80b5cf5251cfdefa80ed316bc3a0a09a"
+              "bytes": "284831427e866363f481dbb9f55acba3a0572e6f4480877f06f23b43d2c4c5a6"
             }
           }
         }
@@ -1542,7 +1601,7 @@
                     "symbol": "due_date"
                   },
                   "val": {
-                    "u64": 1715559
+                    "u64": 7497838
                   }
                 },
                 {
@@ -1592,7 +1651,7 @@
                     "symbol": "id"
                   },
                   "val": {
-                    "bytes": "d94a6627c8827d63b8ba56a74b81375f80b5cf5251cfdefa80ed316bc3a0a09a"
+                    "bytes": "284831427e866363f481dbb9f55acba3a0572e6f4480877f06f23b43d2c4c5a6"
                   }
                 },
                 {

@@ -69,7 +69,7 @@
                   }
                 },
                 {
-                  "u64": 1250642
+                  "u64": 28160293
                 },
                 {
                   "address": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMDR4"
@@ -323,7 +323,7 @@
                 },
                 "durability": "persistent",
                 "val": {
-                  "bytes": "4001e437f1ec96e5553556f0472d8df7d983d18f0e6d89d4edd183030eb57aed"
+                  "bytes": "8565dd97d60883f672f5263c6888b9e85a541d9e551de3c506cde803ed68c9a4"
                 }
               }
             },
@@ -342,7 +342,7 @@
                   "symbol": "Invoice"
                 },
                 {
-                  "bytes": "4001e437f1ec96e5553556f0472d8df7d983d18f0e6d89d4edd183030eb57aed"
+                  "bytes": "8565dd97d60883f672f5263c6888b9e85a541d9e551de3c506cde803ed68c9a4"
                 }
               ]
             },
@@ -362,7 +362,7 @@
                       "symbol": "Invoice"
                     },
                     {
-                      "bytes": "4001e437f1ec96e5553556f0472d8df7d983d18f0e6d89d4edd183030eb57aed"
+                      "bytes": "8565dd97d60883f672f5263c6888b9e85a541d9e551de3c506cde803ed68c9a4"
                     }
                   ]
                 },
@@ -406,7 +406,7 @@
                         "symbol": "due_date"
                       },
                       "val": {
-                        "u64": 1250642
+                        "u64": 28160293
                       }
                     },
                     {
@@ -456,7 +456,7 @@
                         "symbol": "id"
                       },
                       "val": {
-                        "bytes": "4001e437f1ec96e5553556f0472d8df7d983d18f0e6d89d4edd183030eb57aed"
+                        "bytes": "8565dd97d60883f672f5263c6888b9e85a541d9e551de3c506cde803ed68c9a4"
                       }
                     },
                     {
@@ -623,7 +623,7 @@
                 },
                 "durability": "persistent",
                 "val": {
-                  "bytes": "4001e437f1ec96e5553556f0472d8df7d983d18f0e6d89d4edd183030eb57aed"
+                  "bytes": "8565dd97d60883f672f5263c6888b9e85a541d9e551de3c506cde803ed68c9a4"
                 }
               }
             },
@@ -764,7 +764,66 @@
                 },
                 "durability": "persistent",
                 "val": {
-                  "bytes": "4001e437f1ec96e5553556f0472d8df7d983d18f0e6d89d4edd183030eb57aed"
+                  "bytes": "8565dd97d60883f672f5263c6888b9e85a541d9e551de3c506cde803ed68c9a4"
+                }
+              }
+            },
+            "ext": "v0"
+          },
+          2000000
+        ]
+      ],
+      [
+        {
+          "contract_data": {
+            "contract": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAITA4",
+            "key": {
+              "vec": [
+                {
+                  "symbol": "StatusMembership"
+                },
+                {
+                  "vec": [
+                    {
+                      "symbol": "Created"
+                    }
+                  ]
+                },
+                {
+                  "u64": 9612332623892874230
+                }
+              ]
+            },
+            "durability": "persistent"
+          }
+        },
+        [
+          {
+            "last_modified_ledger_seq": 0,
+            "data": {
+              "contract_data": {
+                "ext": "v0",
+                "contract": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAITA4",
+                "key": {
+                  "vec": [
+                    {
+                      "symbol": "StatusMembership"
+                    },
+                    {
+                      "vec": [
+                        {
+                          "symbol": "Created"
+                        }
+                      ]
+                    },
+                    {
+                      "u64": 9612332623892874230
+                    }
+                  ]
+                },
+                "durability": "persistent",
+                "val": {
+                  "bool": true
                 }
               }
             },
@@ -1294,7 +1353,7 @@
                   }
                 },
                 {
-                  "u64": 1250642
+                  "u64": 28160293
                 },
                 {
                   "address": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMDR4"
@@ -1416,7 +1475,7 @@
                 "symbol": "invoice_created"
               },
               {
-                "bytes": "4001e437f1ec96e5553556f0472d8df7d983d18f0e6d89d4edd183030eb57aed"
+                "bytes": "8565dd97d60883f672f5263c6888b9e85a541d9e551de3c506cde803ed68c9a4"
               },
               {
                 "address": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFCT4"
@@ -1455,7 +1514,7 @@
               }
             ],
             "data": {
-              "bytes": "4001e437f1ec96e5553556f0472d8df7d983d18f0e6d89d4edd183030eb57aed"
+              "bytes": "8565dd97d60883f672f5263c6888b9e85a541d9e551de3c506cde803ed68c9a4"
             }
           }
         }
@@ -1481,7 +1540,7 @@
               }
             ],
             "data": {
-              "bytes": "4001e437f1ec96e5553556f0472d8df7d983d18f0e6d89d4edd183030eb57aed"
+              "bytes": "8565dd97d60883f672f5263c6888b9e85a541d9e551de3c506cde803ed68c9a4"
             }
           }
         }
@@ -1542,7 +1601,7 @@
                     "symbol": "due_date"
                   },
                   "val": {
-                    "u64": 1250642
+                    "u64": 28160293
                   }
                 },
                 {
@@ -1592,7 +1651,7 @@
                     "symbol": "id"
                   },
                   "val": {
-                    "bytes": "4001e437f1ec96e5553556f0472d8df7d983d18f0e6d89d4edd183030eb57aed"
+                    "bytes": "8565dd97d60883f672f5263c6888b9e85a541d9e551de3c506cde803ed68c9a4"
                   }
                 },
                 {

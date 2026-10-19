@@ -69,7 +69,7 @@
                   }
                 },
                 {
-                  "u64": 7142013
+                  "u64": 23726420
                 },
                 {
                   "address": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMDR4"
@@ -323,7 +323,7 @@
                 },
                 "durability": "persistent",
                 "val": {
-                  "bytes": "849e39a63f95aa2bd6cc21fcebad8365cf84bd5d20b1a4720eb6f831357151ad"
+                  "bytes": "51e0b926a17ec8ab9581d5ae2abc6087f82e5a67f7c4fbbfb9e5b0546f9ac048"
                 }
               }
             },
@@ -342,7 +342,7 @@
                   "symbol": "Invoice"
                 },
                 {
-                  "bytes": "849e39a63f95aa2bd6cc21fcebad8365cf84bd5d20b1a4720eb6f831357151ad"
+                  "bytes": "51e0b926a17ec8ab9581d5ae2abc6087f82e5a67f7c4fbbfb9e5b0546f9ac048"
                 }
               ]
             },
@@ -362,7 +362,7 @@
                       "symbol": "Invoice"
                     },
                     {
-                      "bytes": "849e39a63f95aa2bd6cc21fcebad8365cf84bd5d20b1a4720eb6f831357151ad"
+                      "bytes": "51e0b926a17ec8ab9581d5ae2abc6087f82e5a67f7c4fbbfb9e5b0546f9ac048"
                     }
                   ]
                 },
@@ -406,7 +406,7 @@
                         "symbol": "due_date"
                       },
                       "val": {
-                        "u64": 7142013
+                        "u64": 23726420
                       }
                     },
                     {
@@ -456,7 +456,7 @@
                         "symbol": "id"
                       },
                       "val": {
-                        "bytes": "849e39a63f95aa2bd6cc21fcebad8365cf84bd5d20b1a4720eb6f831357151ad"
+                        "bytes": "51e0b926a17ec8ab9581d5ae2abc6087f82e5a67f7c4fbbfb9e5b0546f9ac048"
                       }
                     },
                     {
@@ -623,7 +623,7 @@
                 },
                 "durability": "persistent",
                 "val": {
-                  "bytes": "849e39a63f95aa2bd6cc21fcebad8365cf84bd5d20b1a4720eb6f831357151ad"
+                  "bytes": "51e0b926a17ec8ab9581d5ae2abc6087f82e5a67f7c4fbbfb9e5b0546f9ac048"
                 }
               }
             },
@@ -764,7 +764,66 @@
                 },
                 "durability": "persistent",
                 "val": {
-                  "bytes": "849e39a63f95aa2bd6cc21fcebad8365cf84bd5d20b1a4720eb6f831357151ad"
+                  "bytes": "51e0b926a17ec8ab9581d5ae2abc6087f82e5a67f7c4fbbfb9e5b0546f9ac048"
+                }
+              }
+            },
+            "ext": "v0"
+          },
+          2000000
+        ]
+      ],
+      [
+        {
+          "contract_data": {
+            "contract": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAITA4",
+            "key": {
+              "vec": [
+                {
+                  "symbol": "StatusMembership"
+                },
+                {
+                  "vec": [
+                    {
+                      "symbol": "Created"
+                    }
+                  ]
+                },
+                {
+                  "u64": 5899919087424686251
+                }
+              ]
+            },
+            "durability": "persistent"
+          }
+        },
+        [
+          {
+            "last_modified_ledger_seq": 0,
+            "data": {
+              "contract_data": {
+                "ext": "v0",
+                "contract": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAITA4",
+                "key": {
+                  "vec": [
+                    {
+                      "symbol": "StatusMembership"
+                    },
+                    {
+                      "vec": [
+                        {
+                          "symbol": "Created"
+                        }
+                      ]
+                    },
+                    {
+                      "u64": 5899919087424686251
+                    }
+                  ]
+                },
+                "durability": "persistent",
+                "val": {
+                  "bool": true
                 }
               }
             },
@@ -1294,7 +1353,7 @@
                   }
                 },
                 {
-                  "u64": 7142013
+                  "u64": 23726420
                 },
                 {
                   "address": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMDR4"
@@ -1416,7 +1475,7 @@
                 "symbol": "invoice_created"
               },
               {
-                "bytes": "849e39a63f95aa2bd6cc21fcebad8365cf84bd5d20b1a4720eb6f831357151ad"
+                "bytes": "51e0b926a17ec8ab9581d5ae2abc6087f82e5a67f7c4fbbfb9e5b0546f9ac048"
               },
               {
                 "address": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFCT4"
@@ -1455,7 +1514,7 @@
               }
             ],
             "data": {
-              "bytes": "849e39a63f95aa2bd6cc21fcebad8365cf84bd5d20b1a4720eb6f831357151ad"
+              "bytes": "51e0b926a17ec8ab9581d5ae2abc6087f82e5a67f7c4fbbfb9e5b0546f9ac048"
             }
           }
         }
@@ -1481,7 +1540,7 @@
               }
             ],
             "data": {
-              "bytes": "849e39a63f95aa2bd6cc21fcebad8365cf84bd5d20b1a4720eb6f831357151ad"
+              "bytes": "51e0b926a17ec8ab9581d5ae2abc6087f82e5a67f7c4fbbfb9e5b0546f9ac048"
             }
           }
         }
@@ -1542,7 +1601,7 @@
                     "symbol": "due_date"
                   },
                   "val": {
-                    "u64": 7142013
+                    "u64": 23726420
                   }
                 },
                 {
@@ -1592,7 +1651,7 @@
                     "symbol": "id"
                   },
                   "val": {
-                    "bytes": "849e39a63f95aa2bd6cc21fcebad8365cf84bd5d20b1a4720eb6f831357151ad"
+                    "bytes": "51e0b926a17ec8ab9581d5ae2abc6087f82e5a67f7c4fbbfb9e5b0546f9ac048"
                   }
                 },
                 {
